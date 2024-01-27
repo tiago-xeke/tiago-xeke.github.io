@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All posts
+title: Todas publicações
 ---
 
 {% for tag in site.tags %}
