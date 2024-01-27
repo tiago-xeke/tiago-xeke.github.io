@@ -2,6 +2,7 @@
 title: Talvez a escola não seja tão ruím
 tags: produtividade texto
 ---
+# Talvez a escola não seja tão ruím
 ## Introdução
 
 Quero tentar melhorar minha produtividade, então aqui deixarei minha metodologia de rotina atual e um planejamento para minha metodologia futura
