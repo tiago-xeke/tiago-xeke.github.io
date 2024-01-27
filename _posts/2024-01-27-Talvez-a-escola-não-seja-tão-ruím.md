@@ -1,4 +1,5 @@
 ---
+title: Talvez a escola não seja tão ruím
 tags: produtividade texto
 ---
 ## Introdução
